@@ -22,4 +22,4 @@ npx skills update
 
 | Skill | Description |
 |-------|-------------|
-| **loyalty-template-creator** | Create CDN loyalty page templates for Shopify theme extensions by replicating the visual style of a reference website |
+| **loyalty-template-creator** | Create a custom Shopify loyalty page with the JeriCommerce Storefront SDK, replicating the visual style of a reference website |
